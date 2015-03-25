@@ -1,5 +1,5 @@
 {
-    "name" : "cspoo/symfony-sms-bundle",
+    "name" : "allan-simon/symfony-sms-bundle",
     "type" : "symfony-bundle",
     "description" : "Symfony SMS bundle",
     "keywords" : ["SMS", "notification"],
